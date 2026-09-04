@@ -99,7 +99,9 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
-
+    - id: "guojiayibaoju"
+      name: "国家医保局"
+      expected_domain: "nhsa.gov.cn"
 
 
 # ===============================================================
